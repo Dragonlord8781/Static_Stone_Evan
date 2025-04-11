@@ -1,0 +1,14 @@
+C:\Users\EVANSTONE\OneDrive - Green Country Technology Center\Documents\Work\Basic Programming\Code Projects\Static_Stone_Evan\Static_Stone_Evan\bin\Debug\net7.0\Static_Stone_Evan.exe
+C:\Users\EVANSTONE\OneDrive - Green Country Technology Center\Documents\Work\Basic Programming\Code Projects\Static_Stone_Evan\Static_Stone_Evan\bin\Debug\net7.0\Static_Stone_Evan.deps.json
+C:\Users\EVANSTONE\OneDrive - Green Country Technology Center\Documents\Work\Basic Programming\Code Projects\Static_Stone_Evan\Static_Stone_Evan\bin\Debug\net7.0\Static_Stone_Evan.runtimeconfig.json
+C:\Users\EVANSTONE\OneDrive - Green Country Technology Center\Documents\Work\Basic Programming\Code Projects\Static_Stone_Evan\Static_Stone_Evan\bin\Debug\net7.0\Static_Stone_Evan.dll
+C:\Users\EVANSTONE\OneDrive - Green Country Technology Center\Documents\Work\Basic Programming\Code Projects\Static_Stone_Evan\Static_Stone_Evan\bin\Debug\net7.0\Static_Stone_Evan.pdb
+C:\Users\EVANSTONE\OneDrive - Green Country Technology Center\Documents\Work\Basic Programming\Code Projects\Static_Stone_Evan\Static_Stone_Evan\obj\Debug\net7.0\Static_Stone_Evan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EVANSTONE\OneDrive - Green Country Technology Center\Documents\Work\Basic Programming\Code Projects\Static_Stone_Evan\Static_Stone_Evan\obj\Debug\net7.0\Static_Stone_Evan.AssemblyInfoInputs.cache
+C:\Users\EVANSTONE\OneDrive - Green Country Technology Center\Documents\Work\Basic Programming\Code Projects\Static_Stone_Evan\Static_Stone_Evan\obj\Debug\net7.0\Static_Stone_Evan.AssemblyInfo.cs
+C:\Users\EVANSTONE\OneDrive - Green Country Technology Center\Documents\Work\Basic Programming\Code Projects\Static_Stone_Evan\Static_Stone_Evan\obj\Debug\net7.0\Static_Stone_Evan.csproj.CoreCompileInputs.cache
+C:\Users\EVANSTONE\OneDrive - Green Country Technology Center\Documents\Work\Basic Programming\Code Projects\Static_Stone_Evan\Static_Stone_Evan\obj\Debug\net7.0\Static_Stone_Evan.dll
+C:\Users\EVANSTONE\OneDrive - Green Country Technology Center\Documents\Work\Basic Programming\Code Projects\Static_Stone_Evan\Static_Stone_Evan\obj\Debug\net7.0\refint\Static_Stone_Evan.dll
+C:\Users\EVANSTONE\OneDrive - Green Country Technology Center\Documents\Work\Basic Programming\Code Projects\Static_Stone_Evan\Static_Stone_Evan\obj\Debug\net7.0\Static_Stone_Evan.pdb
+C:\Users\EVANSTONE\OneDrive - Green Country Technology Center\Documents\Work\Basic Programming\Code Projects\Static_Stone_Evan\Static_Stone_Evan\obj\Debug\net7.0\Static_Stone_Evan.genruntimeconfig.cache
+C:\Users\EVANSTONE\OneDrive - Green Country Technology Center\Documents\Work\Basic Programming\Code Projects\Static_Stone_Evan\Static_Stone_Evan\obj\Debug\net7.0\ref\Static_Stone_Evan.dll
